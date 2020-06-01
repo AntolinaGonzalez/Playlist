@@ -1,3 +1,5 @@
+Playlist with LinkedList and ArrayList
+
 This code implements a playlist for songs
 There is a Song class. It has two atributtes Tittle and Duration
 There is an Album class that contaigns a list of songs.
